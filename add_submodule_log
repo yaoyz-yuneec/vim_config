@@ -1,0 +1,38 @@
+yaoyz@yaoyz-MS-7996:~/dev/vim_config$ git submodule add .vim_runtime/my_plugins/taglist.vim
+仓库 URL：'.vim_runtime/my_plugins/taglist.vim' 必须是绝对路径或以 ./|../ 起始
+yaoyz@yaoyz-MS-7996:~/dev/vim_config$ git status
+位于分支 master
+您的分支领先 'origin/master' 共 1 个提交。
+  （使用 "git push" 来发布您的本地提交）
+尚未暂存以备提交的变更：
+  （使用 "git add <文件>..." 更新要提交的内容）
+  （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
+  （提交或丢弃子模组中未跟踪或修改的内容）
+
+	修改：     .vim_runtime/my_plugins/taglist.vim (未跟踪的内容)
+
+修改尚未加入提交（使用 "git add" 和/或 "git commit -a"）
+yaoyz@yaoyz-MS-7996:~/dev/vim_config$ git submodule add ~/dev/vim_config/.vim_runtime/my_plugins/taglist.vim
+正克隆到 'taglist.vim'...
+完成。
+yaoyz@yaoyz-MS-7996:~/dev/vim_config$ 
+yaoyz@yaoyz-MS-7996:~/dev/vim_config$ 
+yaoyz@yaoyz-MS-7996:~/dev/vim_config$ git status
+位于分支 master
+您的分支领先 'origin/master' 共 1 个提交。
+  （使用 "git push" 来发布您的本地提交）
+要提交的变更：
+  （使用 "git reset HEAD <文件>..." 以取消暂存）
+
+	新文件：   .gitmodules
+	新文件：   taglist.vim
+
+尚未暂存以备提交的变更：
+  （使用 "git add <文件>..." 更新要提交的内容）
+  （使用 "git checkout -- <文件>..." 丢弃工作区的改动）
+  （提交或丢弃子模组中未跟踪或修改的内容）
+
+	修改：     .vim_runtime/my_plugins/taglist.vim (未跟踪的内容)
+
+yaoyz@yaoyz-MS-7996:~/dev/vim_config$ 
+
