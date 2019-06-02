@@ -1,0 +1,3 @@
+[submodule "taglist.vim"]
+	path = taglist.vim
+	url = /home/yaoyz/dev/vim_config/.vim_runtime/my_plugins/taglist.vim
