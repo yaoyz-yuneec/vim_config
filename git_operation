@@ -7,5 +7,4 @@ git 2.0版本之后，默认采用simple方式，只推送当前分之
 git config --global push.default matching
 git config --global push.default simple
 
-
-
+现在我想只推当前分之，为了不出现警告，我将其配置成了simple
