@@ -1,0 +1,11 @@
+// -u选项会指定一个默认主机，以后可不带任何参数使用git push
+git push -u origin master
+
+git 2.0版本之前，默认采用matching方式，推送所有对应远程分之的本地分之
+git 2.0版本之后，默认采用simple方式，只推送当前分之
+配置方法：
+git config --global push.default matching
+git config --global push.default simple
+
+
+
