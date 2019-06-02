@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/yaoyunzhi/work/e90_repo/Camera/e90/ambalink_sdk_4_4/linux/drivers/pinctrl'
+let g:netrw_dirhist_2='/home/yaoyunzhi/work/e90_repo/Camera/e90/ambalink_sdk_4_4/linux/drivers'
+let g:netrw_dirhist_3='/home/yaoyunzhi/work/e90_repo/Camera/e90/ambalink_sdk_4_4/linux'
+let g:netrw_dirhist_4='/home/yaoyunzhi/work/e90_repo/Camera/e90/ambalink_sdk_4_4/linux/drivers/pinctrl'
+let g:netrw_dirhist_5='/home/yaoyunzhi/work/e90_repo/Camera/e90/ambalink_sdk_4_4/linux/drivers'
+let g:netrw_dirhist_6='/home/yaoyunzhi/work/e90_repo/Camera/e90/ambalink_sdk_4_4/linux/drivers/tty/serial'
