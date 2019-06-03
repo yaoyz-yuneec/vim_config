@@ -1,3 +1,6 @@
 [submodule ".vim_runtime/sources_non_forked/diffconflicts.vim"]
 	path = .vim_runtime/sources_non_forked/diffconflicts.vim
 	url = https://github.com/whiteinge/diffconflicts.git
+[submodule ".vim_runtime/my_plugins/taglist.vim"]
+	path = .vim_runtime/my_plugins/taglist.vim
+	url = https://github.com/vim-scripts/taglist.vim.git
