@@ -1,3 +1,3 @@
-[submodule "taglist.vim"]
-	path = taglist.vim
-	url = /home/yaoyz/dev/vim_config/.vim_runtime/my_plugins/taglist.vim
+[submodule ".vim_runtime/sources_non_forked/diffconflicts.vim"]
+	path = .vim_runtime/sources_non_forked/diffconflicts.vim
+	url = https://github.com/whiteinge/diffconflicts.git
