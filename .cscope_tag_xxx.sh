@@ -9,4 +9,4 @@ export CSCOPE_DB=./cscope_lighttpd/cscope.out
 
 ##notice##
 ## 1, Before the dir that need to be prune, add the `-type d`
-## 2, After the wildcards of the later -o option, add the -print to exclude the prune in the stdout
+## 2, After the -prune option, add the -print after the wildcards to exclude the prune content in the stdout
